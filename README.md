@@ -7,9 +7,10 @@ A quick guide for CTSA grantees on Libraries resources, particularly Research Se
 
 [Graduate Specialist Program](https://libguides.rutgers.edu/graduatespecialist)  
 - [data science](https://libguides.rutgers.edu/datascience)
-- [digital humanities](https://libguides.rutgers.edu)
+- [digital humanities](https://libguides.rutgers.edu/dh_grad)
 - [diversity in data](https://libguides.rutgers.edu/datadiversity)
-- [qualitative data](https://libguides.rutgers.edu)
+- [GIS](https://libguides.rutgers.edu/gis)
+- [qualitative data](https://libguides.rutgers.edu/Qualitative_grad)
 
 [Workshops](https://libcal.rutgers.edu/nblworkshops)
 
