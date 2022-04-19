@@ -2,8 +2,8 @@
 A quick guide for CTSA grantees on Libraries resources, particularly Research Services at New Brunswick Libraries.
 
 [Data Services Guide](https://libguides.rutgers.edu/data)  
-[Data Management Guide](https://libguides.rutgers.edu/datamanagement)  
-- and [Science Data Management](https://libguides.rutgers.edu/grad_sciencedata)
+[Data Management Guide](https://libguides.rutgers.edu/datamanagement)  (Laura Palumbo)
+- and [Science Data Management](https://libguides.rutgers.edu/grad_sciencedata) (Laura Palumbo)
 
 [Graduate Specialist Program](https://libguides.rutgers.edu/graduatespecialist)  
 - [data science](https://libguides.rutgers.edu/datascience)
