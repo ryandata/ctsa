@@ -13,7 +13,7 @@ A quick guide for CTSA grantees on Libraries resources, particularly Research Se
 
 [Workshops](https://libcal.rutgers.edu/nblworkshops)
 
-[Subject Specialist Librarians](https://libraries.rutgers.edu/)
+[Subject Specialist Librarians](https://www.libraries.rutgers.edu/new-brunswick/teaching-research-help/subject-help-new-brunswick)
 
 [Teaching and Research Help](https://www.libraries.rutgers.edu/new-brunswick/teaching-research-help), including  
 - [Scholarly Communication and SOAR](https://www.libraries.rutgers.edu/research-tools-and-services/open-access-scholarship) and [Open Access Publishing](https://www.libraries.rutgers.edu/research-tools-and-services/open-access-publishing-opportunities-rutgers-researchers)
